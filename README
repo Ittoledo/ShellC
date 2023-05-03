@@ -1,0 +1,17 @@
+Martin Alfonso Vasquez Rehbein - 202073549-2
+
+OBS: En la estructura de lista enlazada se modificó la 'linea 13' del archivo 'arbol.h'
+(Nodo** arreglo;) a un doble puntero, para poder tener una liberación de memoria correcta.
+
+Para su correcta ejecución se debe, dentro de la carpeta contenedora con los archivos:
+    - main.c
+    - arbol.c
+    - arbol.h
+    - makefile
+    - README
+
+ejecutar el comando 'make', este creará un ejecutable llamado 'main', que es el ejecutable del programa.
+
+Pd: el programa se ejecutó varias veces para hacer pruebas de errores, pero no es garantía que tenga algún
+bug inesperado (como la creación de un directorio/archivo con el mismo nombre, en este caso quedarían dos carpetas/archivos
+con el mismo nombre).
