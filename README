@@ -1,5 +1,3 @@
-Martin Alfonso Vasquez Rehbein - 202073549-2
-
 OBS: En la estructura de lista enlazada se modificó la 'linea 13' del archivo 'arbol.h'
 (Nodo** arreglo;) a un doble puntero, para poder tener una liberación de memoria correcta.
 
